@@ -1,0 +1,7 @@
+# Netlify redirects — preserve SEO from the old Google Sites URLs
+/home                  /                       301
+/income-tax-services   /tax.html               301
+/auto                  /dmv.html               301
+/notary                /notary.html            301
+/insurance             /insurance.html         301
+/office-services       /office-services.html   301

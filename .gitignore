@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+
+# Internal dev artifacts — not for the public site repo
+.claude/
+CLAUDE.md
+bug reports/

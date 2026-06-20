@@ -1,0 +1,7 @@
+# STAGING — this preview is intentionally hidden from search engines.
+# To go live and ALLOW indexing, restore the production version (see GO-LIVE.md):
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://www.jcincometaxx.com/sitemap.xml
+User-agent: *
+Disallow: /
